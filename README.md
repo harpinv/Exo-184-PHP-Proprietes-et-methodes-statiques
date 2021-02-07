@@ -1,0 +1,1 @@
+# Exo-184-PHP-Proprietes-et-methodes-statiques
